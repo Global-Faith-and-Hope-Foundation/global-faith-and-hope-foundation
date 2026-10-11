@@ -55,6 +55,14 @@
   line-height: 1.7;
   margin-bottom: 25px;
 }
+.intro-video video {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  border-radius: 12px;
+  background: #000;
+}
 
 /* Active navigation page */
 .main-nav a.active {
