@@ -36,6 +36,25 @@
 .main-nav a:hover::after {
     width: 70%;
 }
+.intro-video {
+  padding: 50px 20px;
+  text-align: center;
+  background: #f5f8f5;
+}
+
+.intro-video .container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.intro-video h2 {
+  color: #17633b;
+}
+
+.intro-video p {
+  line-height: 1.7;
+  margin-bottom: 25px;
+}
 
 /* Active navigation page */
 .main-nav a.active {
